@@ -1,7 +1,5 @@
 package net.giulia.cadastro_de_trecos;
 
-import java.sql.ResultSet;
-import java.sql.SQLException;
 import net.giulia.cadastro_de_trecos.setup.AppSetup;
 import net.giulia.cadastro_de_trecos.crud.Read;
 import net.giulia.cadastro_de_trecos.crud.Create;
